@@ -1,4 +1,6 @@
 --CLASS-1
+kahi tari change kel ahe git sathi
+te check karane ahe. ok
 --SQL- Structured query Language.
 --PL/SQL - Programming Language SQL.
 
